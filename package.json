@@ -21,5 +21,7 @@
     "url": "https://github.com/austinjp/random-sentence-url-javascript/issues"
   },
   "homepage": "https://github.com/austinjp/random-sentence-url-javascript#readme",
-  "dependencies": {}
+  "dependencies": {
+    "random-sentence-url": "git+https://github.com/austinjp/random-sentence-url"
+  }
 }
