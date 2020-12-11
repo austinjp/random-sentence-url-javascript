@@ -4,4 +4,4 @@
 
 "random-sentence-url@git+https://github.com/austinjp/random-sentence-url":
   version "0.0.1"
-  resolved "git+https://github.com/austinjp/random-sentence-url#b48efb110294715d4c24eb146850f8a750b7f402"
+  resolved "git+https://github.com/austinjp/random-sentence-url#5ee06f81112872dde443d54c3d566d62ab0be7db"
