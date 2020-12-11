@@ -1,0 +1,27 @@
+{
+  "name": "random-sentence-url",
+  "version": "0.0.1",
+  "description": "Yet another random-sentence-for-URLs generator.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/austinjp/random-sentence-url-javascript.git"
+  },
+  "keywords": [
+    "random",
+    "sentence",
+    "url"
+  ],
+  "author": "austinjp",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/austinjp/random-sentence-url-javascript/issues"
+  },
+  "homepage": "https://github.com/austinjp/random-sentence-url-javascript#readme",
+  "dependencies": {
+    "readable-url": "^1.1.0"
+  }
+}
