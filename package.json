@@ -1,5 +1,5 @@
 {
-  "name": "random-sentence-url",
+  "name": "random-sentence-url-javascript",
   "version": "0.0.1",
   "description": "Yet another random-sentence-for-URLs generator.",
   "main": "index.js",
